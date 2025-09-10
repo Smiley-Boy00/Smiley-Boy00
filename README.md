@@ -1,6 +1,6 @@
-![Alt text](https://github.com/Smiley-Boy00/Smiley-Boy00/blob/main/Banner.png?raw=true)
 
 # 🎨👨‍💻 Technical Artist | Tool Developer
+![Alt text](https://github.com/Smiley-Boy00/Smiley-Boy00/blob/main/Banner%20(Cropped).png?raw=true)
 
 [![Artstation](https://img.shields.io/badge/Artstation-%2313AFF0.svg?logo=artstation&logoColor=white)](https://www.artstation.com/david_martinez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smiley_boy.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmargon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmargon72@gmail.com) 
 
