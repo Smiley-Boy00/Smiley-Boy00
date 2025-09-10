@@ -4,7 +4,7 @@
 
 [![Artstation](https://img.shields.io/badge/Artstation-%2313AFF0.svg?logo=artstation&logoColor=white)](https://www.artstation.com/david_martinez) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smiley_boy.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidmargon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dmargon72@gmail.com) 
 
-root@userunkown01:~$ **git init .smiley**<br>
+root@david_martinez:~$ **git init .smiley**<br>
 
 **3D Artist turned Technical Artist passionate about building tools and pipelines for artists & game developers.<br>**
 🛠 Tool Developer for Autodesk Maya and Unreal Engine 5<br>
