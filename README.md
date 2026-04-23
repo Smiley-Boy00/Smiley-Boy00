@@ -6,7 +6,7 @@
 
 david_martinez@td:~$ **git commit -m "build scalable systems for artists"**<br>
 
-**Technical Artist & TD passionate about building tools and pipelines for artists & game developers.<br>**
+**Technical Artist & TD passionate about building tools and optimizing pipelines & workflows for artists & developers.<br>**
 🛠 Tool Developer for Autodesk Maya and Unreal Engine 5<br>
 💡 Focused on workflow automation, pipeline development, rigging automation, and artist-friendly tools<br>
 🐍 Fluent in Python scripting for 3D applications<br>
